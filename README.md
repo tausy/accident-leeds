@@ -1,4 +1,4 @@
- # Road Accidents Analysis(refer -> Road Safety v1.0)
+ # Road Accidents Analysis
  
 This application is developed to analyse the accidents happened over the last couple of years in the Leeds UK. App is built using Javafx and the accidents data is stored in MySQL database. The application also predicts the number of accidents which may happen in the next 12 months. 
 
